@@ -1,30 +1,13 @@
-#h{
-    width:1643px;
-    height:661px;
-    border:2px solid #000000;
-    color:#000000;
+body{
+    padding-left:10px;
+    text-align: justify;
 }
-#l{
-    width:1051px;
-    Height:894px;
-    Top:742px;
-    Left:58px;
-    Font:Inter;
-    Weight:400;
-    Size:40px;
-    Line height:48.41px;
+#section-1{
+    width:1280px;
+    height:200px;
+    border:2px solid black;
+    box-sizing:border-box;
 }
-#m{
-    width:1623px;
-    Height:469px;
-    Top:1795px;
-    Left:58px;
-}
-#l>a{
-Width:245px;
-Height:48px;
-Top:1670px;
-Left:58px;
-color:#000000;
+div#section-1{
 
 }
